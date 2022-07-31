@@ -1,3 +1,3 @@
-require 'Mojolicious';
-require 'Net::MQTT::Simple';
-require 'IO::Socket::SSL';
+requires 'Mojolicious';
+requires 'Net::MQTT::Simple';
+requires 'IO::Socket::SSL';
